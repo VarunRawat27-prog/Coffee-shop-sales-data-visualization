@@ -106,4 +106,4 @@ After completing this project, students will be able to:
 
 **Name:** Varun Rawat
 
-**GitHub:** VarunRawat27-prog
+**GitHub:** https://github.com/VarunRawat27-prog
